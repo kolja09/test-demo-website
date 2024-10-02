@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "name": "Product 1",
+    "price": 100,
+    "categoryId": 1,
+    "categoryName": "Category 1",
+    "imageUrl": "https://content.rozetka.com.ua/goods/images/big/11963949.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Product 2",
+    "price": 200,
+    "categoryId": 2,
+    "categoryName": "Category 2",
+    "imageUrl": "https://content.rozetka.com.ua/goods/images/big/11963949.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Product 3",
+    "price": 150,
+    "categoryId": 1,
+    "categoryName": "Category 1",
+    "imageUrl": "https://content.rozetka.com.ua/goods/images/big/11963949.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Product 4",
+    "price": 300,
+    "categoryId": 2,
+    "categoryName": "Category 2",
+    "imageUrl": "https://content.rozetka.com.ua/goods/images/big/11963949.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Product 5",
+    "price": 250,
+    "categoryId": 1,
+    "categoryName": "Category 1",
+    "imageUrl": "https://content.rozetka.com.ua/goods/images/big/11963949.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Product 6",
+    "price": 180,
+    "categoryId": 2,
+    "categoryName": "Category 2",
+    "imageUrl": "https://content.rozetka.com.ua/goods/images/big/11963949.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Product 1",
+    "price": 100,
+    "categoryId": 1,
+    "categoryName": "Category 1",
+    "imageUrl": "https://content.rozetka.com.ua/goods/images/big/11963949.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Product 2",
+    "price": 200,
+    "categoryId": 2,
+    "categoryName": "Category 2",
+    "imageUrl": "https://content.rozetka.com.ua/goods/images/big/11963949.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Product 3",
+    "price": 150,
+    "categoryId": 1,
+    "categoryName": "Category 1",
+    "imageUrl": "https://content.rozetka.com.ua/goods/images/big/11963949.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Product 4",
+    "price": 300,
+    "categoryId": 2,
+    "categoryName": "Category 2",
+    "imageUrl": "https://content.rozetka.com.ua/goods/images/big/11963949.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Product 5",
+    "price": 250,
+    "categoryId": 1,
+    "categoryName": "Category 1",
+    "imageUrl": "https://content.rozetka.com.ua/goods/images/big/11963949.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Product 6",
+    "price": 180,
+    "categoryId": 2,
+    "categoryName": "Category 2",
+    "imageUrl": "https://content.rozetka.com.ua/goods/images/big/11963949.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Product 6",
+    "price": 180,
+    "categoryId": 2,
+    "categoryName": "Category 2",
+    "imageUrl": "https://content.rozetka.com.ua/goods/images/big/11963949.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Product 6",
+    "price": 180,
+    "categoryId": 2,
+    "categoryName": "Category 2",
+    "imageUrl": "https://content.rozetka.com.ua/goods/images/big/11963949.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Product 6",
+    "price": 180,
+    "categoryId": 2,
+    "categoryName": "Category 2",
+    "imageUrl": "https://content.rozetka.com.ua/goods/images/big/11963949.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Product 6",
+    "price": 180,
+    "categoryId": 2,
+    "categoryName": "Category 2",
+    "imageUrl": "https://content.rozetka.com.ua/goods/images/big/11963949.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Product 6",
+    "price": 4180,
+    "categoryId": 2,
+    "categoryName": "Category 2",
+    "imageUrl": "https://content.rozetka.com.ua/goods/images/big/11963949.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Product 6",
+    "price": 5180,
+    "categoryId": 2,
+    "categoryName": "Category 2",
+    "imageUrl": "https://content.rozetka.com.ua/goods/images/big/11963949.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Product 6",
+    "price": 1180,
+    "categoryId": 2,
+    "categoryName": "Category 2",
+    "imageUrl": "https://content.rozetka.com.ua/goods/images/big/11963949.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Product 6",
+    "price": 1280,
+    "categoryId": 2,
+    "categoryName": "Category 2",
+    "imageUrl": "https://content.rozetka.com.ua/goods/images/big/11963949.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Product 6",
+    "price": 1840,
+    "categoryId": 2,
+    "categoryName": "Category 2",
+    "imageUrl": "https://content.rozetka.com.ua/goods/images/big/11963949.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Product 6",
+    "price": 1330,
+    "categoryId": 2,
+    "categoryName": "Category 2",
+    "imageUrl": "https://content.rozetka.com.ua/goods/images/big/11963949.jpg"
+  }
+]

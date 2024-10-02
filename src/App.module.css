@@ -1,0 +1,23 @@
+.layout {
+  min-height: 100vh;
+  background-color: #f0f2f5;
+}
+
+.content {
+  padding: 20px;
+  background-color: #f0f2f5;
+  overflow-y: auto;
+  height: 100vh;
+}
+
+.styledSpin {
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+}
+
+.sidebar {
+  padding: 10px;
+  height: 100vh;
+  overflow-y: auto;
+}

@@ -1,0 +1,2 @@
+export const TOTAL_PAGE_SIZE_FOR_PRODUCTS = 10;
+export const TOTAL_PAGE_SIZE_FOR_CATEGORIES = 50;
